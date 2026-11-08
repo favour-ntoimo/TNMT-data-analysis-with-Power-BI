@@ -11,7 +11,7 @@ An end-to-end business intelligence project that turns raw sales data into an in
 
 ## 🖼️ Dashboard Preview
 
-![TNMT Revenue Dashboard](TNMT_POWER_BI_DASHBOARD.png)
+![TNMT Revenue Dashboard](dashboard.png)
 
 ---
 
